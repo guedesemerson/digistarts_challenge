@@ -49,7 +49,7 @@ $ sudo -u postgres createdb [yourdb] -O supplai_api
 ### Running Django applications: You can download the project dependencies with:
 
 ```bash
-pip install -r requirements.txt
+pip install -r dev-requirements.txt
 python manage.py migrate
 ```
 
