@@ -27,8 +27,10 @@ You can get started building this application locally, but you can either run th
 * Install [Python](https://www.python.org/downloads/)
 ```
 
-### Edit your .env file
+### Edit your .env file to use your settings
 ```bash
+$ cp dev.env .env
+
 DEBUG=your_debug
 SECRET_KEY=you_key
 DATABASE_URL=your_database_info
