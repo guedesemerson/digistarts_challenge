@@ -59,5 +59,11 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+### Test your endpoints with pytest:
+
+```bash
+pytest teste_pytest.py
+```
+
 ### Your application will be running locally with a doc api  on main page. 
 

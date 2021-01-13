@@ -2,3 +2,4 @@
 Procfile
 runtime.txt
 requirements.txt
+.idea
